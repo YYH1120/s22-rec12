@@ -8,3 +8,4 @@ Please fork before rewriting its commit history.
 A's change
 B's change
 C
+D
